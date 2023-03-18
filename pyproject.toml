@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "scala_di_benchmarks"
+version = "0.1.0"
+description = "Measuring the time complexity of various methods of dependency injection in Scala"
+authors = []
+
+[tool.poetry.dependencies]
+matplotlib = "^3.7.1"
+numpy = "^1.24.2"
+python = "^3.8"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

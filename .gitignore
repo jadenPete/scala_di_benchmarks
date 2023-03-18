@@ -1,0 +1,7 @@
+/.metals/
+/.vscode/
+/project/project/
+.bloop/
+.scala-build/
+__pycache__/
+target/
